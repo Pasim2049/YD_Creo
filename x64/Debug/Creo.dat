@@ -1,0 +1,6 @@
+NAME CreoTest
+STARTUP dll
+EXEC_FILE E:\GitProject\vs2010\CreoTest01\x64\Debug\CreoTestCons.dll
+TEXT_DIR E:\GitProject\vs2010\CreoTest01\x64\Debug\text
+REVISION Creo2.0
+END
